@@ -7,7 +7,7 @@ public class Main_1158 {
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt(); // N : 사람 수
-		int K = sc.nextInt(); // K : K번째 사람 제거
+		int K = sc.nextInt(); // K : K번째 사람 제거를 하기
 		
 		// 큐 : FIFO 형태 
 		Queue<Integer> queue = new LinkedList<>();
