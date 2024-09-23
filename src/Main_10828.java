@@ -42,6 +42,7 @@ public class Main_10828 {
                     break;
             }
         }
+
         sc.close();
     }
 }
