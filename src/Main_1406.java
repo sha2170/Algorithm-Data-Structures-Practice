@@ -51,6 +51,7 @@ public class Main_1406 {
             sb.append(ch);
         }
 
+
         System.out.println(sb);
     }
 }
