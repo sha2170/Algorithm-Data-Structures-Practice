@@ -32,6 +32,7 @@ public class Main_1874 {
                 return;
             }
         }
+
         System.out.println(sb.toString());
     }
 }
