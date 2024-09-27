@@ -34,6 +34,7 @@ public class Main_1158 {
 		}
 
 		System.out.println(">");
+
 		sc.close();
 	}
 
