@@ -28,6 +28,7 @@ public class Main_9012 {
                 }
             }
         }
+
         return stack.isEmpty() ? "YES" : "NO";
     }
 }
