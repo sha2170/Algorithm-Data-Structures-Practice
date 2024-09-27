@@ -30,7 +30,6 @@ public class Main_1475 {
 		}
 		
 		System.out.println(setCount);
-		
 		sc.close();
 	}
 
