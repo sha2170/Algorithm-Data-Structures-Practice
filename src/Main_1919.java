@@ -29,7 +29,6 @@ public class Main_1919 {
 		}
 
 		System.out.println(count);
-		
 		sc.close();
 		
 	}
