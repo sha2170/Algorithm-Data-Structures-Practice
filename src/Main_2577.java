@@ -28,6 +28,7 @@ public class Main_2577 {
         for (int i = 0; i < 10; i++) {
             System.out.println(count[i]);
         }
+
         sc.close();
     }
 }
