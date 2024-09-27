@@ -49,7 +49,6 @@ public class Main_1966 {
                 }
             }
         }
-
         sc.close();
     }
 }
