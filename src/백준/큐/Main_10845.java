@@ -1,3 +1,5 @@
+package 백준.큐;
+
 import java.util.Scanner;
 import java.util.LinkedList;
 
