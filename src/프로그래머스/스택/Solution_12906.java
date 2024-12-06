@@ -1,6 +1,8 @@
+package 프로그래머스.스택;
+
 import java.util.*;
 
-public class Main_12906 {
+public class Solution_12906 {
     public int[] solution(int[] arr) {
 
         List<Integer> resultList = new ArrayList<>();
@@ -25,7 +27,7 @@ public class Main_12906 {
 
 
     public static void main(String[] args) {
-        Main_12906 solution = new Main_12906();
+        Solution_12906 solution = new Solution_12906();
 
         // 예시 배열 테스트
         int[] arr1 = {1, 1, 3, 3, 0, 1, 1};
