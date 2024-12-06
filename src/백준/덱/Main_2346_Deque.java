@@ -1,3 +1,5 @@
+package 백준.덱;
+
 import java.util.*;
 
 public class Main_2346_Deque {
