@@ -1,3 +1,5 @@
+package 백준.트리;
+
 import java.util.*;
 
 public class Main_11725 {
