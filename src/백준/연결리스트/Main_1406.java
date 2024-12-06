@@ -1,3 +1,5 @@
+package 백준.연결리스트;
+
 import java.io.*;
 import java.util.*;
 
