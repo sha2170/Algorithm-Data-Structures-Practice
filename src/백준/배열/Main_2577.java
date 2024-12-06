@@ -1,3 +1,5 @@
+package 백준.배열;
+
 import java.util.Scanner;
 
 public class Main_2577 {
