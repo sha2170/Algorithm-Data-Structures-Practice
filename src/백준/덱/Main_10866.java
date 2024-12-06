@@ -1,3 +1,5 @@
+package 백준.덱;
+
 import java.io.*;
 import java.util.Deque;
 import java.util.LinkedList;
