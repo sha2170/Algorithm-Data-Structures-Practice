@@ -1,6 +1,8 @@
+package 프로그래머스.정렬;
+
 import java.util.Arrays;
 
-public class Main_42746 {
+public class Solution_42746 {
     public String Main_42746(int[] numbers) {
         String[] Numbers = new String[numbers.length];
         for (int i=0; i<numbers.length; i++) {
