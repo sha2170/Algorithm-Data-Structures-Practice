@@ -1,3 +1,5 @@
+package 백준.트리;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
