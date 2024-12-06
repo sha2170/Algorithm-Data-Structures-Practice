@@ -1,3 +1,5 @@
+package 백준.힙;
+
 import java.io.*;
 import java.util.*;
 
