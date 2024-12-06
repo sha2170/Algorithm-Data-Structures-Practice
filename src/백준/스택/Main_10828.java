@@ -1,3 +1,5 @@
+package 백준.스택;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Main_10828 {
