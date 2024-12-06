@@ -1,3 +1,5 @@
+package 백준.정렬;
+
 import java.util.Scanner;
 import java.util.Arrays;
 
