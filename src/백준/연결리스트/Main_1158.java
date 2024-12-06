@@ -1,3 +1,5 @@
+package 백준.연결리스트;
+
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.Scanner;
