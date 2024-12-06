@@ -1,3 +1,5 @@
+package 프로그래머스.깊이너비우선탐색;
+
 public class Solution_43165 {
     public int solution_43165(int[] numbers, int target) {
         return dfs(numbers, target, 0, 0);
