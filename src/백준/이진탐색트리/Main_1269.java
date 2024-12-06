@@ -1,3 +1,5 @@
+package 백준.이진탐색트리;
+
 import java.util.HashSet;
 import java.util.Scanner;
 
