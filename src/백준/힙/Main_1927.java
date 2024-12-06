@@ -1,3 +1,5 @@
+package 백준.힙;
+
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
