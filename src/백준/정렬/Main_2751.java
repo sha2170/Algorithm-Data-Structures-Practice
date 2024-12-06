@@ -1,3 +1,5 @@
+package 백준.정렬;
+
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.BufferedReader;
