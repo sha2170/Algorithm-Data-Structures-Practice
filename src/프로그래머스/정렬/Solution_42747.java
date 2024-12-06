@@ -1,6 +1,8 @@
+package 프로그래머스.정렬;
+
 import java.util.Arrays;
 
-class Main_42747 {
+class Solution_42747 {
     public int main_42747(int[] citations) {
         Arrays.sort(citations);
         int n = citations.length;
