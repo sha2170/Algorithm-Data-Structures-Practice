@@ -1,3 +1,5 @@
+package 백준.브루트포스;
+
 import java.util.Scanner;
 import java.util.Arrays;
 
